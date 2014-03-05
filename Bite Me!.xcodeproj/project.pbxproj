@@ -22,6 +22,15 @@
 		4D12E0C418BAE9C60028F387 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D12E0A318BAE9C60028F387 /* UIKit.framework */; };
 		4D12E0CC18BAE9C60028F387 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4D12E0CA18BAE9C60028F387 /* InfoPlist.strings */; };
 		4D12E0CE18BAE9C60028F387 /* Bite_Me_Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D12E0CD18BAE9C60028F387 /* Bite_Me_Tests.m */; };
+		4D12E0D818BAEAC70028F387 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D12E0D718BAEAC70028F387 /* MapKit.framework */; };
+		4D12E0DB18BAEAEE0028F387 /* BMDirectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D12E0DA18BAEAEE0028F387 /* BMDirectionView.m */; };
+		4D12E0DE18BAEE010028F387 /* BMRestaurant.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D12E0DD18BAEE010028F387 /* BMRestaurant.m */; };
+		E420DC7318BF04740051CCC7 /* BiteButton2.png in Resources */ = {isa = PBXBuildFile; fileRef = E420DC7118BF04740051CCC7 /* BiteButton2.png */; };
+		E420DC7418BF04740051CCC7 /* BiteButton3.png in Resources */ = {isa = PBXBuildFile; fileRef = E420DC7218BF04740051CCC7 /* BiteButton3.png */; };
+		E420DC7718C03F3C0051CCC7 /* BMAlgo.m in Sources */ = {isa = PBXBuildFile; fileRef = E420DC7618C03F3C0051CCC7 /* BMAlgo.m */; };
+		E42EBDE818BB1E7400A1F9A3 /* BiteButton.png in Resources */ = {isa = PBXBuildFile; fileRef = E42EBDE718BB1E7400A1F9A3 /* BiteButton.png */; };
+		E4A4442618BEFB6C008708A5 /* BMConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = E4A4442318BEFB6C008708A5 /* BMConnection.m */; };
+		E4A4442718BEFB6C008708A5 /* BMData.m in Sources */ = {isa = PBXBuildFile; fileRef = E4A4442518BEFB6C008708A5 /* BMData.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +64,20 @@
 		4D12E0C918BAE9C60028F387 /* Bite Me!Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Bite Me!Tests-Info.plist"; sourceTree = "<group>"; };
 		4D12E0CB18BAE9C60028F387 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4D12E0CD18BAE9C60028F387 /* Bite_Me_Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Bite_Me_Tests.m; sourceTree = "<group>"; };
+		4D12E0D718BAEAC70028F387 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		4D12E0D918BAEAEE0028F387 /* BMDirectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BMDirectionView.h; sourceTree = "<group>"; };
+		4D12E0DA18BAEAEE0028F387 /* BMDirectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BMDirectionView.m; sourceTree = "<group>"; };
+		4D12E0DC18BAEE010028F387 /* BMRestaurant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BMRestaurant.h; sourceTree = "<group>"; };
+		4D12E0DD18BAEE010028F387 /* BMRestaurant.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BMRestaurant.m; sourceTree = "<group>"; };
+		E420DC7118BF04740051CCC7 /* BiteButton2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BiteButton2.png; sourceTree = "<group>"; };
+		E420DC7218BF04740051CCC7 /* BiteButton3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BiteButton3.png; sourceTree = "<group>"; };
+		E420DC7518C03F3C0051CCC7 /* BMAlgo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BMAlgo.h; sourceTree = "<group>"; };
+		E420DC7618C03F3C0051CCC7 /* BMAlgo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BMAlgo.m; sourceTree = "<group>"; };
+		E42EBDE718BB1E7400A1F9A3 /* BiteButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BiteButton.png; sourceTree = "<group>"; };
+		E4A4442218BEFB6C008708A5 /* BMConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BMConnection.h; sourceTree = "<group>"; };
+		E4A4442318BEFB6C008708A5 /* BMConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BMConnection.m; sourceTree = "<group>"; };
+		E4A4442418BEFB6C008708A5 /* BMData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BMData.h; sourceTree = "<group>"; };
+		E4A4442518BEFB6C008708A5 /* BMData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BMData.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +85,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D12E0D818BAEAC70028F387 /* MapKit.framework in Frameworks */,
 				4D12E0A218BAE9C60028F387 /* CoreGraphics.framework in Frameworks */,
 				4D12E0A418BAE9C60028F387 /* UIKit.framework in Frameworks */,
 				4D12E0A018BAE9C60028F387 /* Foundation.framework in Frameworks */,
@@ -103,6 +127,7 @@
 		4D12E09E18BAE9C60028F387 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				4D12E0D718BAEAC70028F387 /* MapKit.framework */,
 				4D12E09F18BAE9C60028F387 /* Foundation.framework */,
 				4D12E0A118BAE9C60028F387 /* CoreGraphics.framework */,
 				4D12E0A318BAE9C60028F387 /* UIKit.framework */,
@@ -114,12 +139,25 @@
 		4D12E0A518BAE9C60028F387 /* Bite Me! */ = {
 			isa = PBXGroup;
 			children = (
+				E4A4442218BEFB6C008708A5 /* BMConnection.h */,
+				E4A4442318BEFB6C008708A5 /* BMConnection.m */,
+				E420DC7518C03F3C0051CCC7 /* BMAlgo.h */,
+				E420DC7618C03F3C0051CCC7 /* BMAlgo.m */,
+				E4A4442418BEFB6C008708A5 /* BMData.h */,
+				E4A4442518BEFB6C008708A5 /* BMData.m */,
 				4D12E0AE18BAE9C60028F387 /* BMAppDelegate.h */,
 				4D12E0AF18BAE9C60028F387 /* BMAppDelegate.m */,
 				4D12E0B118BAE9C60028F387 /* Main_iPhone.storyboard */,
 				4D12E0B418BAE9C60028F387 /* Main_iPad.storyboard */,
+				4D12E0D918BAEAEE0028F387 /* BMDirectionView.h */,
+				4D12E0DA18BAEAEE0028F387 /* BMDirectionView.m */,
+				4D12E0DC18BAEE010028F387 /* BMRestaurant.h */,
+				4D12E0DD18BAEE010028F387 /* BMRestaurant.m */,
 				4D12E0B718BAE9C60028F387 /* BMViewController.h */,
 				4D12E0B818BAE9C60028F387 /* BMViewController.m */,
+				E42EBDE718BB1E7400A1F9A3 /* BiteButton.png */,
+				E420DC7118BF04740051CCC7 /* BiteButton2.png */,
+				E420DC7218BF04740051CCC7 /* BiteButton3.png */,
 				4D12E0BA18BAE9C60028F387 /* Images.xcassets */,
 				4D12E0A618BAE9C60028F387 /* Supporting Files */,
 			);
@@ -232,8 +270,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E420DC7418BF04740051CCC7 /* BiteButton3.png in Resources */,
 				4D12E0B618BAE9C60028F387 /* Main_iPad.storyboard in Resources */,
 				4D12E0BB18BAE9C60028F387 /* Images.xcassets in Resources */,
+				E420DC7318BF04740051CCC7 /* BiteButton2.png in Resources */,
+				E42EBDE818BB1E7400A1F9A3 /* BiteButton.png in Resources */,
 				4D12E0B318BAE9C60028F387 /* Main_iPhone.storyboard in Resources */,
 				4D12E0AA18BAE9C60028F387 /* InfoPlist.strings in Resources */,
 			);
@@ -256,7 +297,12 @@
 			files = (
 				4D12E0B918BAE9C60028F387 /* BMViewController.m in Sources */,
 				4D12E0AC18BAE9C60028F387 /* main.m in Sources */,
+				E4A4442718BEFB6C008708A5 /* BMData.m in Sources */,
+				4D12E0DE18BAEE010028F387 /* BMRestaurant.m in Sources */,
+				E4A4442618BEFB6C008708A5 /* BMConnection.m in Sources */,
+				E420DC7718C03F3C0051CCC7 /* BMAlgo.m in Sources */,
 				4D12E0B018BAE9C60028F387 /* BMAppDelegate.m in Sources */,
+				4D12E0DB18BAEAEE0028F387 /* BMDirectionView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -475,6 +521,7 @@
 				4D12E0D318BAE9C60028F387 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4D12E0D418BAE9C60028F387 /* Build configuration list for PBXNativeTarget "Bite Me!Tests" */ = {
 			isa = XCConfigurationList;
@@ -483,6 +530,7 @@
 				4D12E0D618BAE9C60028F387 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

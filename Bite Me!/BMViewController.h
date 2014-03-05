@@ -10,4 +10,8 @@
 
 @interface BMViewController : UIViewController
 
+- (IBAction)Start:(id)sender;
+
+//@property (weak, nonatomic) IBOutlet UIButton *BiteMeButton;
+
 @end

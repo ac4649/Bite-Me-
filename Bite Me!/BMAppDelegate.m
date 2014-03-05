@@ -7,12 +7,23 @@
 //
 
 #import "BMAppDelegate.h"
+#import "BMConnection.h"
 
 @implementation BMAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    
+    BMConnection* connection=[BMConnection getInstance];
+    connection.articleURL = @"https://api.foursquare.com/v2/venues/explore?client_id=SRGYIH3TEJLNRIZYGVS1J3AWUS03UHQCFDJGLAG1Z5R4T3FH&client_secret=CIONSZPB04MWYJRGPT3AQQULU033GIJH4IZIZ2PWCVBL4Y4O&v=20130815&ll=40.7,-74&radius=10000&Selector=food";
+    
+    
+    //&section=food
+    
+    [connection connect];
+    
+    
     return YES;
 }
 							
