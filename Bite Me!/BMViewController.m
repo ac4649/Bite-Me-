@@ -84,7 +84,7 @@
     if (algo.done) {
         BMData *globalData=[BMData getInstance];
         
-        NSLog(@"distance: %@", globalData.distanceArray);
+        //NSLog(@"distance: %@", globalData.distanceArray);
         
         [sender removeFromSuperview];
     }

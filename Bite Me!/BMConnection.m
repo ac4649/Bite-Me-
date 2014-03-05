@@ -114,7 +114,7 @@ static BMConnection *instance =nil;
     NSArray *RestaurantNames = [AllRestaurantNames objectAtIndex:0];
     NSArray *RestaurantRatings = [AllRestaurantRatings objectAtIndex:0];
     NSArray *RestaurantLatitude = [AllRestaurantLat objectAtIndex:0];
-    NSArray *RestaurantLongitude = [AllRestaurantLat objectAtIndex:0];
+    NSArray *RestaurantLongitude = [AllRestaurantLong objectAtIndex:0];
 
 
     globalData.dataRestaurantArray = RestaurantNames;
