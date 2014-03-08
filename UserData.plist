@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Username</key>
+	<string></string>
+	<key>LoggedIn</key>
+	<false/>
+	<key>Email</key>
+	<string></string>
+	<key>Area</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Friends</key>
+	<dict>
+		<key>Username</key>
+		<string>ID</string>
+	</dict>
+	<key>Preferences</key>
+	<dict>
+		<key>Afghan Restaurant</key>
+		<real>0.5</real>
+		<key>African Restaurant</key>
+		<real>0.5</real>
+		<key>American Restaurant</key>
+		<real>0.5</real>
+		<key>Arepa Restaurant</key>
+		<real>0.5</real>
+		<key>Argentinian Restaurant</key>
+		<real>0.5</real>
+		<key>Asian Restaurant</key>
+		<real>0.5</real>
+		<key>Australian Restaurant</key>
+		<real>0.5</real>
+		<key>BBQ Joint</key>
+		<real>0.5</real>
+		<key>Bagel Shop</key>
+		<real>0.5</real>
+		<key>Bakery</key>
+		<real>0.5</real>
+		<key>Brazilian Restaurant</key>
+		<real>0.5</real>
+		<key>Breakfast Spot</key>
+		<real>0.5</real>
+		<key>Brewery</key>
+		<real>0.5</real>
+		<key>Burger Joint</key>
+		<real>0.5</real>
+		<key>Burrito Place</key>
+		<real>0.5</real>
+		<key>Café</key>
+		<real>0.5</real>
+		<key>Cajun / Creole Restaurant</key>
+		<real>0.5</real>
+		<key>Caribbean Restaurant</key>
+		<real>0.5</real>
+		<key>Chinese Restaurant</key>
+		<real>0.5</real>
+		<key>Coffee Shop</key>
+		<real>0.5</real>
+		<key>Cuban Restaurant</key>
+		<real>0.5</real>
+		<key>Cupcake Shop</key>
+		<real>0.5</real>
+		<key>Deli / Bodega</key>
+		<real>0.5</real>
+		<key>Dessert Shop</key>
+		<real>0.5</real>
+		<key>Dim Sum Restaurant</key>
+		<real>0.5</real>
+		<key>Diner</key>
+		<real>0.5</real>
+		<key>Distillery</key>
+		<real>0.5</real>
+		<key>Donut Shop</key>
+		<real>0.5</real>
+		<key>Dumpling Restaurant</key>
+		<real>0.5</real>
+		<key>Eastern European Restaurant</key>
+		<real>0.5</real>
+		<key>Ethiopian Restaurant</key>
+		<real>0.5</real>
+		<key>Falafel Restaurant</key>
+		<real>0.5</real>
+		<key>Fast Food Restaurant</key>
+		<real>0.5</real>
+		<key>Filipino Restaurant</key>
+		<real>0.5</real>
+		<key>Fish &amp; Chips Shop</key>
+		<real>0.5</real>
+		<key>Food Truck</key>
+		<real>0.5</real>
+		<key>French Restaurant</key>
+		<real>0.5</real>
+		<key>Fried Chicken Joint</key>
+		<real>0.5</real>
+		<key>Gastropub</key>
+		<real>0.5</real>
+		<key>German Restaurant</key>
+		<real>0.5</real>
+		<key>Gluten-free Restaurant</key>
+		<real>0.5</real>
+		<key>Greek Restaurant</key>
+		<real>0.5</real>
+		<key>Hot Dog Joint</key>
+		<real>0.5</real>
+		<key>Ice Cream Shop</key>
+		<real>0.5</real>
+		<key>Indian Restaurant</key>
+		<real>0.5</real>
+		<key>Indonesian Restaurant</key>
+		<real>0.5</real>
+		<key>Italian Restaurant</key>
+		<real>0.5</real>
+		<key>Japanese Restaurant</key>
+		<real>0.5</real>
+		<key>Juice Bar</key>
+		<real>0.5</real>
+		<key>Korean Restaurant</key>
+		<real>0.5</real>
+		<key>Latin American Restaurant</key>
+		<real>0.5</real>
+		<key>Mac &amp; Cheese Joint</key>
+		<real>0.5</real>
+		<key>Malaysian Restaurant</key>
+		<real>0.5</real>
+		<key>Mediterranean Restaurant</key>
+		<real>0.5</real>
+		<key>Mexican Restaurant</key>
+		<real>0.5</real>
+		<key>Middle Eastern Restaurant</key>
+		<real>0.5</real>
+		<key>Molecular Gastronomy Restaurant</key>
+		<real>0.5</real>
+		<key>Mongolian Restaurant</key>
+		<real>0.5</real>
+		<key>Moroccan Restaurant</key>
+		<real>0.5</real>
+		<key>New American Restaurant</key>
+		<real>0.5</real>
+		<key>Peruvian Restaurant</key>
+		<real>0.5</real>
+		<key>Pizza Place</key>
+		<real>0.5</real>
+		<key>Portuguese Restaurant</key>
+		<real>0.5</real>
+		<key>Ramen / Noodle House</key>
+		<real>0.5</real>
+		<key>Restaurant</key>
+		<real>0.5</real>
+		<key>Salad Place</key>
+		<real>0.5</real>
+		<key>Sandwich Place</key>
+		<real>0.5</real>
+		<key>Scandinavian Restaurant</key>
+		<real>0.5</real>
+		<key>Seafood Restaurant</key>
+		<real>0.5</real>
+		<key>Snack Place</key>
+		<real>0.5</real>
+		<key>Soup Place</key>
+		<real>0.5</real>
+		<key>South American Restaurant</key>
+		<real>0.5</real>
+		<key>Southern / Soul Food Restaurant</key>
+		<real>0.5</real>
+		<key>Spanish Restaurant</key>
+		<real>0.5</real>
+		<key>Paella Restaurant</key>
+		<real>0.5</real>
+		<key>Steakhouse</key>
+		<real>0.5</real>
+		<key>Sushi Restaurant</key>
+		<real>0.5</real>
+		<key>Swiss Restaurant</key>
+		<real>0.5</real>
+		<key>Taco Place</key>
+		<real>0.5</real>
+		<key>Tapas Restaurant</key>
+		<real>0.5</real>
+		<key>Tea Room</key>
+		<real>0.5</real>
+		<key>Thai Restaurant</key>
+		<real>0.5</real>
+		<key>Turkish Restaurant</key>
+		<real>0.5</real>
+		<key>Vegetarian / Vegan Restaurant</key>
+		<real>0.5</real>
+		<key>Vietnamese Restaurant</key>
+		<real>0.5</real>
+		<key>Winery</key>
+		<real>0.5</real>
+		<key>Wings Joint</key>
+		<real>0.5</real>
+		<key>Frozen Yogurt</key>
+		<real>0.5</real>
+	</dict>
+	<key>PreviousTwo</key>
+	<array>
+		<string></string>
+		<string></string>
+	</array>
+	<key>Last Modified</key>
+	<date>2014-02-28T04:36:56Z</date>
+</dict>
+</plist>

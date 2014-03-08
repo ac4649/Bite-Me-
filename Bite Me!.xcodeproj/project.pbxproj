@@ -25,6 +25,7 @@
 		4D12E0D818BAEAC70028F387 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D12E0D718BAEAC70028F387 /* MapKit.framework */; };
 		4D12E0DB18BAEAEE0028F387 /* BMDirectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D12E0DA18BAEAEE0028F387 /* BMDirectionView.m */; };
 		4D12E0DE18BAEE010028F387 /* BMRestaurant.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D12E0DD18BAEE010028F387 /* BMRestaurant.m */; };
+		4DF6D31118CBC7F7006B35C0 /* UserData.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4DF6D31018CBC7F7006B35C0 /* UserData.plist */; };
 		E41A83DF18C6D7FA00CE6CA8 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E41A83DE18C6D7FA00CE6CA8 /* CoreLocation.framework */; };
 		E420DC7318BF04740051CCC7 /* BiteButton2.png in Resources */ = {isa = PBXBuildFile; fileRef = E420DC7118BF04740051CCC7 /* BiteButton2.png */; };
 		E420DC7418BF04740051CCC7 /* BiteButton3.png in Resources */ = {isa = PBXBuildFile; fileRef = E420DC7218BF04740051CCC7 /* BiteButton3.png */; };
@@ -70,6 +71,7 @@
 		4D12E0DA18BAEAEE0028F387 /* BMDirectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BMDirectionView.m; sourceTree = "<group>"; };
 		4D12E0DC18BAEE010028F387 /* BMRestaurant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BMRestaurant.h; sourceTree = "<group>"; };
 		4D12E0DD18BAEE010028F387 /* BMRestaurant.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BMRestaurant.m; sourceTree = "<group>"; };
+		4DF6D31018CBC7F7006B35C0 /* UserData.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = UserData.plist; path = ../UserData.plist; sourceTree = "<group>"; };
 		E41A83DE18C6D7FA00CE6CA8 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		E41A83E018C6EA2100CE6CA8 /* Brooklyn.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Brooklyn.gpx; sourceTree = "<group>"; };
 		E420DC7118BF04740051CCC7 /* BiteButton2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BiteButton2.png; sourceTree = "<group>"; };
@@ -144,6 +146,7 @@
 		4D12E0A518BAE9C60028F387 /* Bite Me! */ = {
 			isa = PBXGroup;
 			children = (
+				4DF6D31018CBC7F7006B35C0 /* UserData.plist */,
 				E4A4442218BEFB6C008708A5 /* BMConnection.h */,
 				E4A4442318BEFB6C008708A5 /* BMConnection.m */,
 				E420DC7518C03F3C0051CCC7 /* BMAlgo.h */,
@@ -277,6 +280,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E420DC7418BF04740051CCC7 /* BiteButton3.png in Resources */,
+				4DF6D31118CBC7F7006B35C0 /* UserData.plist in Resources */,
 				4D12E0B618BAE9C60028F387 /* Main_iPad.storyboard in Resources */,
 				4D12E0BB18BAE9C60028F387 /* Images.xcassets in Resources */,
 				E420DC7318BF04740051CCC7 /* BiteButton2.png in Resources */,
